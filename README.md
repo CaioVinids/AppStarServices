@@ -8,6 +8,6 @@ O protótipo deste aplicativo foi planejado e desenhado no **Figma**.
 
 O aplicativo de prestação de serviços da **Star Services** foi desenvolvido utilizando **Flutter** e **Dart**.
 
-| Tela de Início | Menu Lateral | Cadastro |
+| Tela Splash | Tela Tipo de Usuário | Tela de Início |
 | :---: | :---: | :---: |
-| ![Splash](https://raw.githubusercontent.com/CaioVinids/AppStarServices/main/imagens/fundo_splash.gif) | ![Menu](https://raw.githubusercontent.com/CaioVinids/AppStarServices/main/imagens/logo.png) | (Adicione o print aqui) |
+| ![Tela de Início](imagens/fundo_splash.gif) | ![Tela Tp Usuario](imagens/logo.png) | ![Tela Tp Usuario](imagens/logo.png) |
