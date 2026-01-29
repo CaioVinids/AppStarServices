@@ -10,4 +10,4 @@ O aplicativo de prestação de serviços da **Star Services** foi desenvolvido u
 
 | Tela Splash | Tela Tipo de Usuário | Tela de Início |
 | :---: | :---: | :---: |
-| ![Tela de Início](imagens/fundo_splash.gif) | ![Tela Tp Usuario](imagens/logo.png) | ![Tela Tp Usuario](imagens/logo.png) |
+| ![Tela de Início](imagens/printTelaInicial.png) | ![Tela Tp Usuario](imagens/printTelaTpUsuario.png) | ![Tela Tp Usuario](imagens/printTelaLogin.png) |
