@@ -2,7 +2,7 @@
 
 O protótipo deste aplicativo foi planejado e desenhado no **Figma**.
 
-🔗 [Acesse o protótipo no Figma aqui](LINK_DO_SEU_PROJETO_NO_FIGMA)
+🔗 [Acesse o protótipo no Figma aqui](https://www.figma.com/design/fL0fMYUM2fROp82OehGWVu/App---Star-Services?node-id=0-1&p=f&t=WRtFJYLKw8RNMwkk-0)
 
 ## 📱 Telas do Aplicativo
 
